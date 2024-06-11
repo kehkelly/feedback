@@ -18,6 +18,6 @@ export const GlobalStyle = createGlobalStyle`
         height: 100vh;
         display: flex;
         justify-content: center;
-        align-content: ;
+        align-items: center;
     }
 `
